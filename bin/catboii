@@ -1,0 +1,9 @@
+#written by Pardesi_Cat
+#!/bin/bash
+
+export PATH="$HOME/APPS/SCRIPTS/:$PATH"
+
+echo ""
+
+exec alacritty -e bash pcat.sh
+
